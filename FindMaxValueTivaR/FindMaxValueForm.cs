@@ -31,7 +31,14 @@ namespace FindMaxValueTivaR
         // ... scans the array and returns the greatest value in the array.
         private int GetMaxValue(int[] tmpArrayOfIntegers)
         {
+            int tmpMaxValue;
+            const int MAX_ARRAYS
 
+            for (counter = 0; counter < MAX_ARRAY_SIZE; counter++)
+            {
+
+            }
+            
 
             return tmpMaxValue;
         }

@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.frmFindMaxValue.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\bin\Debug\FindMaxValueTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\bin\Debug\FindMaxValueTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\bin\Debug\FindMaxValueTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 5 (Arrays & Lists)\FindMaxValueTivaR\FindMaxValueTivaR\obj\Debug\FindMaxValueTivaR.pdb
