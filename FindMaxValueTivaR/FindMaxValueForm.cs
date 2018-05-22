@@ -12,7 +12,8 @@ using System.Windows.Forms;
  * Created on: 04-05-2018 (Star Wars Day!!!!!!)
  * Created for: ICS3U Programming
  * Daily Assignment – Day #35 - Find Max Value
- * This program...
+ * This program randomly generates 10 numbers then adds them to an array. 
+ * The function GetMaxValue then compares all of the number in the array to find the largest one.
 */
 
 namespace FindMaxValueTivaR
@@ -31,12 +32,18 @@ namespace FindMaxValueTivaR
         // ... scans the array and returns the greatest value in the array.
         private int GetMaxValue(int[] tmpArrayOfIntegers)
         {
-            int tmpMaxValue;
-            const int MAX_ARRAYS
+            // Variables
+            int tmpMaxValue = 0;
+            const int MAX_ARRAY_SIZE = 10;
 
-            for (counter = 0; counter < MAX_ARRAY_SIZE; counter++)
+            // To cycle through array until it is all compared
+            for (int counter = 0; counter < MAX_ARRAY_SIZE; counter++)
             {
-
+                if (tmpMaxValue < tmpArrayOfIntegers[counter])
+                {
+                    // Set the max value to be equal to the current number
+                    tmpMaxValue = tmpArrayOfIntegers[counter];
+                }
             }
             
 
